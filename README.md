@@ -7,7 +7,7 @@ This is  Arifur Rahman, I completed my  B.Sc Engineering from CSE in DUET, where
 
 Skills: HTML / CSS / JS / Python / C# / .NET / CCNA /Network Security
 
-- 🌱 I’m currently learning ASP.NET, JavaScript 
+- 🌱 I’m currently learning ASP.NET Core, JavaScript 
 - 👯 I’m looking to collaborate on github 
 
 
