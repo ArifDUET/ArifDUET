@@ -5,7 +5,6 @@ This is  Arifur Rahman, I completed my  B.Sc Engineering from CSE in DUET, where
 
 Skills: HTML / CSS / JS / Python / C# / .NET / CCNA /Network Security
 
-- 🌱 I’m currently JavaScript,React. 
 - 👯 I’m looking to collaborate on github 
 
 
